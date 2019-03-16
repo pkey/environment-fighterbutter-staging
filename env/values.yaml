@@ -15,7 +15,7 @@ expose:
   - --v
   - 4
   config:
-    domain: 35.228.11.90.nip.io
+    domain: intrnships.tech
     exposer: Ingress
     http: "true"
 jenkins:
